@@ -1,2 +1,2 @@
 Nama : Arfiah
-Nama Training : Batch 1 - Data Visualization Python
+Nama Training : Batch 1 - Data Visualization Pythongit status
